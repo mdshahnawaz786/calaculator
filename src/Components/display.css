@@ -1,0 +1,8 @@
+.display{
+    height: 15%;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    align-items:center;
+    padding: 0px 10px;
+}
